@@ -1,0 +1,5 @@
+com/biblioteca/biblioteca/repository/CategoriaRepository.class
+com/biblioteca/biblioteca/repository/LivroRepository.class
+com/biblioteca/biblioteca/BibliotecaApplication.class
+com/biblioteca/biblioteca/entity/Categoria.class
+com/biblioteca/biblioteca/entity/Livro.class

@@ -1,0 +1,5 @@
+/workspaces/Biblioteca/src/main/java/com/biblioteca/biblioteca/repository/LivroRepository.java
+/workspaces/Biblioteca/src/main/java/com/biblioteca/biblioteca/BibliotecaApplication.java
+/workspaces/Biblioteca/src/main/java/com/biblioteca/biblioteca/repository/CategoriaRepository.java
+/workspaces/Biblioteca/src/main/java/com/biblioteca/biblioteca/entity/Livro.java
+/workspaces/Biblioteca/src/main/java/com/biblioteca/biblioteca/entity/Categoria.java
